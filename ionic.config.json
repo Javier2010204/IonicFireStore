@@ -1,0 +1,8 @@
+{
+  "name": "ExampleFireStore",
+  "app_id": "5ad2414d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
